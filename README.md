@@ -1,3 +1,17 @@
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+
 Hi there,
 
 I help performance and creative agencies fix tracking issues, streamline analytics, and deliver cleaner data to their clients, without overwhelming internal teams.
