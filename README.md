@@ -5,6 +5,9 @@
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
 
 
+![JavaScript](...)  
+![GTM](...) ![GA4](...) ![Facebook Pixel](...) ![Google Ads](...)
+
 
 
 Hi there,
