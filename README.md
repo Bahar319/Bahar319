@@ -1,5 +1,4 @@
-<img src="https://emoji.discourse-cdn.com/twitter/sunglasses.gif?v=12" width="28"/> <strong>Hey! Nice to see you.</strong>
-
+# 😎 Hey! Nice to see you.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![GTM](https://img.shields.io/badge/GTM-Tag%20Manager-4285F4?style=flat&logo=google-tag-manager&logoColor=blue)
 ![GA4](https://img.shields.io/badge/GA4-Analytics-F9AB00?style=flat&logo=google-analytics&logoColor=#E37400)
