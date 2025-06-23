@@ -1,11 +1,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GTM](https://img.shields.io/badge/GTM-Tag%20Manager-34A853?style=flat&logo=google-tag-manager&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4-Analytics-FF6F00?style=flat&logo=google-analytics&logoColor=white)
+![GTM](https://img.shields.io/badge/GTM-Tag%20Manager-4285F4?style=flat&logo=google-tag-manager&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-Analytics-F9AB00?style=flat&logo=google-analytics&logoColor=white)
 ![Facebook Pixel](https://img.shields.io/badge/Facebook%20Pixel-1877F2?style=flat&logo=facebook&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-Automation-FF4A00?style=flat&logo=zapier&logoColor=white)
-![Webhook](https://img.shields.io/badge/Webhook-Listener-4A90E2?style=flat&logo=webhooks&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhook-Listener-5A5A5A?style=flat&logo=webhooks&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-Interface-6E40C9?style=flat&logo=api&logoColor=white)
+
 
 
 
