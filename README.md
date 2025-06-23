@@ -4,7 +4,7 @@
 ![Facebook Pixel](https://img.shields.io/badge/Facebook%20Pixel-1877F2?style=flat&logo=facebook&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-34A853?style=flat&logo=google-ads&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-Automation-FF4A00?style=flat&logo=zapier&logoColor=#FF4F00)
-![Webhook](https://img.shields.io/badge/Webhook-Listener-4A90E2?style=flat&logo=webhooks&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhooks-4A90E2?style=flat&logo=webhooks&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6E40C9?style=flat&logo=api&logoColor=white)
 
 
