@@ -35,15 +35,15 @@ As a Tracking & Analytics Specialist, I partner with agencies to build scalable,
 → Faster onboarding for new clients (I’ll handle tagging)
 → Fewer data issues, more time to scale campaigns
 
-💡 What I bring to the table:
+# 💡 What I bring to the table:
 
-→ An analytical mindset and rigorous problem-solving skills
-→ A strong sense of curiosity and proactivity—I love learning
-→ Team spirit and the ability to collaborate seamlessly across technical and non-technical teams
-→ Strong organizational skills to manage and prioritize multiple projects simultaneously
-→ Staying up to date with the latest web analytics methods.
+* An analytical mindset and rigorous problem-solving skills
+* A strong sense of curiosity and proactivity—I love learning
+* Team spirit and the ability to collaborate seamlessly across technical and non-technical teams
+* Strong organizational skills to manage and prioritize multiple projects simultaneously
+* Staying up to date with the latest web analytics methods.
 
-🛠️ Tools I trust:
+#🛠️ Tools I trust:
 
 GA4, GTM, JavaScript, REST API, Webhooks, Zapier, Meta CAPI, Google Ads, Shopify, WordPress, Webflow
 
