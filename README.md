@@ -30,10 +30,10 @@ As a Tracking & Analytics Specialist, I partner with agencies to build scalable,
 
 # The result:
 
-→ 90%+ increase in tracking accuracy
-→ Higher ROAS from better signal quality
-→ Faster onboarding for new clients (I’ll handle tagging)
-→ Fewer data issues, more time to scale campaigns
+- 90%+ increase in tracking accuracy
+- Higher ROAS from better signal quality
+- Faster onboarding for new clients (I’ll handle tagging)
+- Fewer data issues, more time to scale campaigns
 
 # 💡 What I bring to the table:
 
@@ -43,7 +43,7 @@ As a Tracking & Analytics Specialist, I partner with agencies to build scalable,
 * Strong organizational skills to manage and prioritize multiple projects simultaneously
 * Staying up to date with the latest web analytics methods.
 
-#🛠️ Tools I trust:
+# 🛠️ Tools I trust:
 
 GA4, GTM, JavaScript, REST API, Webhooks, Zapier, Meta CAPI, Google Ads, Shopify, WordPress, Webflow
 
