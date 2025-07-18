@@ -10,32 +10,45 @@
 
 
 
-
-
 Hi there,
 
-I help performance and creative agencies fix tracking issues, streamline analytics, and deliver cleaner data to their clients, without overwhelming internal teams.
+I help performance and creative agencies fix tracking issues, streamline analytics, and deliver cleaner, more actionable data to their clients without overwhelming internal teams.
 
-As a Tracking & Analytics Specialist, I partner with agencies to implement reliable, scalable solutions for GA4, GTM, and server-side tagging, so you can focus on strategy, not troubleshooting pixels.
+As a Tracking & Analytics Specialist, I partner with agencies to build scalable, reliable setups across GA4, GTM, and server-side tagging so you can focus on strategy, not troubleshooting conversion tracking.
 
-🔧 Here’s what I handle for your team:
+🔧 What I take off your plate:
 
-↳ End-to-end GA4 and GTM setups (client-side + server-side)
-↳ Server-side tracking to improve attribution and ad signal quality
-↳ Automation via JavaScript, Webhooks, and Zapier
-↳ Conversion API integrations (Meta, Google, TikTok)
-↳ Cookie Consent Management 
-↳ Custom event tracking and data layer design
+→ Full GA4 & GTM implementations (client-side + server-side)
+→ Server-side tracking for improved attribution and signal quality
+→ Conversion API integrations (Meta, Google, TikTok, etc.)
+→ REST API & webhook setups for complex data sync and conversion tracking
+→ Automation via Zapier
+→ Custom event tracking & data layer design
+→ Cookie Consent Management (GDPR/CCPA-compliant tagging)
+→ Advanced tracking logic using JavaScript
+→ Create custom GTM templates if needed
 
 🎯 The result:
 
-• 90 %+ increase in data accuracy
-• Better ROAS from cleaner tracking
-• Faster onboarding for new clients (I’ll handle the tagging)
-• Less time fighting data, more time scaling results
+→ 90%+ increase in tracking accuracy
+→ Higher ROAS from better signal quality
+→ Faster onboarding for new clients (I’ll handle tagging)
+→ Fewer data issues, more time to scale campaigns
 
-🛠️ Trusted tools: GTM, GA4, JavaScript, Webhooks, Zapier, Meta CAPI, Google Ads, Shopify, WordPress, Webflow
+💡 What I bring to the table:
 
-📈 I've worked behind the scenes with agencies to improve reporting, automate lead flows, and solve tricky analytics issues that internal teams don’t have time to untangle.
+→ An analytical mindset and rigorous problem-solving skills
+→ A strong sense of curiosity and proactivity—I love learning
+→ Team spirit and the ability to collaborate seamlessly across technical and non-technical teams
+→ Strong organizational skills to manage and prioritize multiple projects simultaneously
+→ Staying up to date with the latest web analytics methods.
 
-If you're an agency owner, media buyer, or head of ops looking for a technical partner who just gets it, let’s talk.
+🛠️ Tools I trust:
+
+GA4, GTM, JavaScript, REST API, Webhooks, Zapier, Meta CAPI, Google Ads, Shopify, WordPress, Webflow
+
+I’ve worked behind the scenes with agencies to solve the messy, technical analytics problems that slow growth and drain internal teams.
+
+If you’re a media buyer, head of ops, or agency owner who needs a technical partner that just gets it, let’s connect.
+
+📩 DM me or book a quick call.
