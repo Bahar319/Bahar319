@@ -16,19 +16,19 @@ I help performance and creative agencies fix tracking issues, streamline analyti
 
 As a Tracking & Analytics Specialist, I partner with agencies to build scalable, reliable setups across GA4, GTM, and server-side tagging so you can focus on strategy, not troubleshooting conversion tracking.
 
-🔧 What I take off your plate:
+# What I take off your plate:
 
-→ Full GA4 & GTM implementations (client-side + server-side)
-→ Server-side tracking for improved attribution and signal quality
-→ Conversion API integrations (Meta, Google, TikTok, etc.)
-→ REST API & webhook setups for complex data sync and conversion tracking
-→ Automation via Zapier
-→ Custom event tracking & data layer design
-→ Cookie Consent Management (GDPR/CCPA-compliant tagging)
-→ Advanced tracking logic using JavaScript
-→ Create custom GTM templates if needed
+- Full GA4 & GTM implementations (client-side + server-side)
+- Server-side tracking for improved attribution and signal quality
+- Conversion API integrations (Meta, Google, TikTok, etc.)
+- REST API & webhook setups for complex data sync and conversion tracking
+- Automation via Zapier
+- Custom event tracking & data layer design
+- Cookie Consent Management (GDPR/CCPA-compliant tagging)
+- Advanced tracking logic using JavaScript
+- Create custom GTM templates if needed
 
-🎯 The result:
+# The result:
 
 → 90%+ increase in tracking accuracy
 → Higher ROAS from better signal quality
