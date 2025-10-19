@@ -10,7 +10,7 @@
 
 
 
-Hi there,
+Hi,
 
 I help performance and creative agencies fix tracking issues, streamline analytics, and deliver cleaner, more actionable data to their clients without overwhelming internal teams.
 
