@@ -9,46 +9,79 @@
 ![REST API](https://img.shields.io/badge/REST%20API-6E40C9?style=flat&logo=api&logoColor=white)
 
 
+👋 Hi, I'm Bahar
 
-Hi,
+I'm a Tracking & Analytics Specialist helping performance and creative agencies solve complex tracking problems and build reliable measurement systems.
 
-I help performance and creative agencies fix tracking issues, streamline analytics, and deliver cleaner, more actionable data to their clients without overwhelming internal teams.
+I work across Google Tag Manager, GA4, server-side tracking, conversion APIs, CRM integrations, REST APIs, and webhooks to make marketing data more accurate and actionable.
 
-As a Tracking & Analytics Specialist, I partner with agencies to build scalable, reliable setups across GA4, GTM, and server-side tagging so you can focus on strategy, not troubleshooting conversion tracking.
+My goal is simple:
 
-# What I take off your plate:
+Make tracking reliable so marketers can focus on performance instead of troubleshooting data.
 
-- Full GA4 & GTM implementations (client-side + server-side)
-- Server-side tracking for improved attribution and signal quality
-- Conversion API integrations (Meta, Google, TikTok, etc.)
-- REST API & webhook setups for complex data sync and conversion tracking
-- Automation via Zapier
-- Custom event tracking & data layer design
-- Cookie Consent Management (GDPR/CCPA-compliant tagging)
-- Advanced tracking logic using JavaScript
-- Create custom GTM templates if needed
+🛠️ What I Work On
+GA4 & Google Tag Manager implementations
+Client-side and server-side tracking
+Google Ads conversion tracking
+Meta Conversions API
+TikTok Events API
+Offline conversion tracking
+CRM → advertising platform integrations
+REST API & webhook integrations
+Custom event tracking & data layer architecture
+Cookie consent and privacy-aware tracking
+Advanced tracking logic with JavaScript
+Custom GTM templates
+Automation with Zapier
+Cross-domain and attribution tracking
+🔧 Tools & Technologies
 
-# The result:
+Analytics & Tracking
 
-- 90%+ increase in tracking accuracy
-- Higher ROAS from better signal quality
-- Faster onboarding for new clients (I’ll handle tagging)
-- Fewer data issues, more time to scale campaigns
+GA4 GTM Google Ads Meta CAPI TikTok Events API
 
-# 💡 What I bring to the table:
+Development
 
-* An analytical mindset and rigorous problem-solving skills
-* A strong sense of curiosity and proactivity—I love learning
-* Team spirit and the ability to collaborate seamlessly across technical and non-technical teams
-* Strong organizational skills to manage and prioritize multiple projects simultaneously
-* Staying up to date with the latest web analytics methods.
+JavaScript REST API Webhooks JSON HTML CSS
 
-# 🛠️ Tools I trust:
+Automation & Integrations
 
-GA4, GTM, JavaScript, REST API, Webhooks, Zapier, Meta CAPI, Google Ads, Shopify, WordPress, Webflow
+Zapier CRM Integrations Google Sheets Webhooks
 
-I’ve worked behind the scenes with agencies to solve the messy, technical analytics problems that slow growth and drain internal teams.
+Platforms
 
-If you’re a media buyer, head of ops, or agency owner who needs a technical partner that just gets it, let’s connect.
+Shopify WordPress Webflow
 
-📩 DM me or book a quick call.
+💡 How I Think About Tracking
+
+Tracking isn't just about sending events to GA4 or an advertising platform.
+
+A good measurement setup should answer:
+
+Where did the lead come from?
+Which campaign generated the customer?
+Did the lead actually become revenue?
+Can the CRM data be connected back to the original marketing source?
+Are advertising platforms receiving the signals they need?
+What happens when browser-side tracking fails?
+
+That's where I focus.
+
+🚀 What I Help Agencies With
+
+I work behind the scenes with agencies to handle the technical tracking work that can slow down campaigns and consume internal resources.
+
+This allows media buyers, strategists, and account managers to spend more time on optimization and growth instead of debugging tags, APIs, and conversion data.
+
+📚 Always Learning
+
+Web analytics is constantly changing, especially with privacy restrictions, browser limitations, server-side tracking, and advertising platform changes.
+
+I'm continuously experimenting with new technologies and better ways to build reliable measurement systems.
+
+🤝 Let's Connect
+
+If you're a media buyer, agency owner, head of operations, or marketing professional looking for a technical tracking partner, feel free to connect.
+
+LinkedIn:
+https://www.linkedin.com/in/tracking-specialist/
