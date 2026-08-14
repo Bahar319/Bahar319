@@ -1,4 +1,5 @@
 # 😎 Hey! Nice to see you.
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![GTM](https://img.shields.io/badge/GTM-Tag%20Manager-4285F4?style=flat&logo=google-tag-manager&logoColor=blue)
 ![GA4](https://img.shields.io/badge/GA4-Analytics-F9AB00?style=flat&logo=google-analytics&logoColor=#E37400)
@@ -11,81 +12,64 @@
 
 👋 Hi, I'm Bahar
 
-I'm a Tracking & Analytics Specialist helping performance and creative agencies solve complex tracking problems and build reliable measurement systems.
+I'm a Tracking & Analytics Specialist focused on building reliable measurement systems for performance marketing agencies and their clients.
 
-I work across Google Tag Manager, GA4, server-side tracking, conversion APIs, CRM integrations, REST APIs, and webhooks to make marketing data more accurate and actionable.
+My work includes:
 
-My goal is simple:
+- GA4 & Google Tag Manager implementations
+- Client-side & server-side tracking
+- Google Ads & Meta conversion tracking
+- Offline conversion tracking
+- CRM & advertising platform integrations
+- REST API & webhook integrations
+- Custom data layer & event architecture
+- JavaScript-based tracking solutions
+- Custom GTM templates
+- Consent-aware tracking
+- Marketing attribution & data quality
 
-Make tracking reliable so marketers can focus on performance instead of troubleshooting data.
+## What I Work On
 
-🛠️ What I Work On
-GA4 & Google Tag Manager implementations
-Client-side and server-side tracking
-Google Ads conversion tracking
-Meta Conversions API
-TikTok Events API
-Offline conversion tracking
-CRM → advertising platform integrations
-REST API & webhook integrations
-Custom event tracking & data layer architecture
-Cookie consent and privacy-aware tracking
-Advanced tracking logic with JavaScript
-Custom GTM templates
-Automation with Zapier
-Cross-domain and attribution tracking
-🔧 Tools & Technologies
+- Tracking Implementation: GA4, GTM, Google Ads, Meta CAPI, TikTok Events API
+- Server-Side Tracking: sGTM, server-side event processing, API-based measurement
+- Conversion Tracking: Lead, purchase, qualified lead, customer and offline conversions
+- Attribution: GCLID, GBRAID, WBRAID, FBCLID and marketing parameter capture
+- CRM Integration: Connecting CRM lifecycle stages with advertising platforms
+- API Integration: REST APIs, webhooks and custom data synchronization
+- Automation: Zapier-based workflows and conversion pipelines
+- Custom Development: JavaScript, data layers and custom GTM templates
+- Privacy: Cookie consent, GDPR/CCPA-aware tracking and consent-based tagging
 
-**Analytics & Tracking**
+## Technical Stack
+## Analytics & Advertising
+## Development
+## Automation & Platforms
 
-![GA4](https://img.shields.io/badge/GA4-Analytics-F9AB00?style=flat&logo=google-analytics&logoColor=white)
-![GTM](https://img.shields.io/badge/GTM-Tag%20Manager-4285F4?style=flat&logo=google-tag-manager&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
-![Meta CAPI](https://img.shields.io/badge/Meta%20CAPI-1877F2?style=flat&logo=meta&logoColor=white)
-![TikTok Events API](https://img.shields.io/badge/TikTok%20Events%20API-000000?style=flat&logo=tiktok&logoColor=white)
+📊 Tracking Architecture
 
-Development
+I work across the complete marketing measurement pipeline:
 
-JavaScript REST API Webhooks JSON HTML CSS
+Website → GTM → GA4 / Ad Platforms → Server-Side Infrastructure → CRM → Offline Conversions
 
-Automation & Integrations
+Key areas include:
 
-Zapier CRM Integrations Google Sheets Webhooks
+- Marketing Identifier Capture: GCLID, GBRAID, WBRAID, FBCLID
+- Event Architecture: Custom events, parameters, and data layer design
+- Server-Side Processing: Event validation, transformation and routing
+- CRM Integration: Lead and customer lifecycle data
+- Offline Conversions: Connecting qualified leads and customers back to ad platforms
+- Data Quality: Debugging, validation and conversion consistency
+  
+## Professional Focus
 
-Platforms
-
-Shopify WordPress Webflow
-
-💡 How I Think About Tracking
-
-Tracking isn't just about sending events to GA4 or an advertising platform.
-
-A good measurement setup should answer:
-
-Where did the lead come from?
-Which campaign generated the customer?
-Did the lead actually become revenue?
-Can the CRM data be connected back to the original marketing source?
-Are advertising platforms receiving the signals they need?
-What happens when browser-side tracking fails?
-
-That's where I focus.
-
-🚀 What I Help Agencies With
-
-I work behind the scenes with agencies to handle the technical tracking work that can slow down campaigns and consume internal resources.
-
-This allows media buyers, strategists, and account managers to spend more time on optimization and growth instead of debugging tags, APIs, and conversion data.
-
-📚 Always Learning
-
-Web analytics is constantly changing, especially with privacy restrictions, browser limitations, server-side tracking, and advertising platform changes.
-
-I'm continuously experimenting with new technologies and better ways to build reliable measurement systems.
-
-🤝 Let's Connect
-
-If you're a media buyer, agency owner, head of operations, or marketing professional looking for a technical tracking partner, feel free to connect.
-
-LinkedIn:
-https://www.linkedin.com/in/tracking-specialist/
+- Performance Marketing Tracking
+- Conversion Measurement
+- Server-Side Tracking
+- Offline Conversion Tracking
+- CRM & API Integrations
+- Marketing Attribution
+- Data Layer Architecture
+- Consent & Privacy-Aware Tracking
+  
+🤝 Connect With Me
+LinkedIn: https://www.linkedin.com/in/tracking-specialist/
