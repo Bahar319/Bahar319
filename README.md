@@ -1,75 +1,94 @@
 # 😎 Hey! Nice to see you.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GTM](https://img.shields.io/badge/GTM-Tag%20Manager-4285F4?style=flat&logo=google-tag-manager&logoColor=blue)
-![GA4](https://img.shields.io/badge/GA4-Analytics-F9AB00?style=flat&logo=google-analytics&logoColor=#E37400)
-![Facebook Pixel](https://img.shields.io/badge/Facebook%20Pixel-white?style=flat&logo=facebook&logoColor=blue)
+![GTM](https://img.shields.io/badge/GTM-Tag%20Manager-4285F4?style=flat&logo=google-tag-manager&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-Analytics-F9AB00?style=flat&logo=google-analytics&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-34A853?style=flat&logo=google-ads&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-Automation-FF4A00?style=flat&logo=zapier&logoColor=#FF4F00)
-![Webhook](https://img.shields.io/badge/Webhooks-4A90E2?style=flat&logo=webhooks&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-6E40C9?style=flat&logo=api&logoColor=white)
+![Meta CAPI](https://img.shields.io/badge/Meta%20CAPI-1877F2?style=flat&logo=meta&logoColor=white)
+![TikTok Events API](https://img.shields.io/badge/TikTok%20Events%20API-000000?style=flat&logo=tiktok&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-Automation-FF4A00?style=flat&logo=zapier&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-6E40C9?style=flat)
+![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2?style=flat)
 
+## 👋 About Me
 
-👋 Hi, I'm Bahar
+I'm a **Tracking & Analytics Specialist** focused on building reliable measurement systems for **performance marketing agencies and their clients**.
 
-I'm a Tracking & Analytics Specialist focused on building reliable measurement systems for performance marketing agencies and their clients.
+I work across the full tracking lifecycle, from **browser-side event collection** to **server-side processing, CRM integration, and offline conversion measurement**.
 
-My work includes:
+## ⚙️ Core Competencies
 
-- GA4 & Google Tag Manager implementations
-- Client-side & server-side tracking
-- Google Ads & Meta conversion tracking
-- Offline conversion tracking
-- CRM & advertising platform integrations
-- REST API & webhook integrations
-- Custom data layer & event architecture
-- JavaScript-based tracking solutions
-- Custom GTM templates
-- Consent-aware tracking
-- Marketing attribution & data quality
+| **Area** | **Components** |
+|---|---|
+| **Analytics** | GA4, Google Tag Manager, event architecture, measurement strategy |
+| **Advertising** | Google Ads, Meta CAPI, TikTok Events API, conversion tracking |
+| **Server-Side** | sGTM, server-side event processing, validation and routing |
+| **Conversion Tracking** | Lead, purchase, qualified lead, customer, offline conversions |
+| **Attribution** | GCLID, GBRAID, WBRAID, FBCLID, campaign parameters |
+| **CRM Integration** | CRM lifecycle tracking, lead qualification, customer data |
+| **API Integration** | REST APIs, Webhooks, data synchronization |
+| **Development** | JavaScript, JSON, HTML, CSS |
+| **GTM Development** | Custom templates, custom variables, custom tags |
+| **Privacy** | Consent-aware tracking, GDPR/CCPA considerations |
+| **Automation** | Zapier, workflow automation |
 
-## What I Work On
+## 📊 Tracking Architecture
 
-- Tracking Implementation: GA4, GTM, Google Ads, Meta CAPI, TikTok Events API
-- Server-Side Tracking: sGTM, server-side event processing, API-based measurement
-- Conversion Tracking: Lead, purchase, qualified lead, customer and offline conversions
-- Attribution: GCLID, GBRAID, WBRAID, FBCLID and marketing parameter capture
-- CRM Integration: Connecting CRM lifecycle stages with advertising platforms
-- API Integration: REST APIs, webhooks and custom data synchronization
-- Automation: Zapier-based workflows and conversion pipelines
-- Custom Development: JavaScript, data layers and custom GTM templates
-- Privacy: Cookie consent, GDPR/CCPA-aware tracking and consent-based tagging
+**Ad Platform → Website → GTM → GA4 / Conversion API → Server → CRM → Offline Conversion**
 
-## Technical Stack
-## Analytics & Advertising
-## Development
-## Automation & Platforms
+| **Component** | **Function** |
+|---|---|
+| **Marketing Parameters** | Capture GCLID, GBRAID, WBRAID, FBCLID and campaign parameters |
+| **Data Layer** | Structure and standardize events and parameters |
+| **Client-Side GTM** | Collect and route browser-side events |
+| **Server-Side GTM** | Validate, transform and route event data |
+| **Analytics Platforms** | Send measurement data to GA4 and advertising platforms |
+| **Conversion APIs** | Send server-side conversion events to advertising platforms |
+| **CRM** | Capture lead lifecycle stages and customer outcomes |
+| **APIs & Webhooks** | Synchronize data between websites, CRMs and marketing platforms |
+| **Offline Conversions** | Connect qualified leads and customers back to advertising platforms |
 
-📊 Tracking Architecture
+## 🛠️ Technical Stack
 
-I work across the complete marketing measurement pipeline:
+| **Category** | **Technologies** |
+|---|---|
+| **Analytics & Tag Management** | GA4, Google Tag Manager |
+| **Advertising & Conversion APIs** | Google Ads, Meta CAPI, TikTok Events API |
+| **Server-Side** | sGTM, server-side event processing |
+| **Development** | JavaScript, JSON, HTML, CSS |
+| **APIs & Integrations** | REST API, Webhooks |
+| **Automation** | Zapier |
+| **CRM** | CRM integrations, lifecycle tracking |
+| **Platforms** | Shopify, WordPress, Webflow |
 
-Website → GTM → GA4 / Ad Platforms → Server-Side Infrastructure → CRM → Offline Conversions
+## 🔬 What I Build
 
-Key areas include:
+| **System** | **Implementation** |
+|---|---|
+| **Conversion Tracking** | GA4, Google Ads, Meta and TikTok conversion tracking |
+| **Server-Side Tracking** | sGTM event collection, processing and routing |
+| **Offline Conversion Tracking** | CRM lifecycle → qualified lead → customer → advertising platform |
+| **CRM Integrations** | CRM data synchronization with marketing platforms |
+| **API Integrations** | REST API and webhook-based data pipelines |
+| **Custom GTM Development** | Custom tags, variables and templates |
+| **Data Layer Architecture** | Event schemas, parameters and structured data |
+| **Attribution** | Marketing parameter and click ID capture |
+| **Consent Management** | Consent-aware tagging and measurement |
 
-- Marketing Identifier Capture: GCLID, GBRAID, WBRAID, FBCLID
-- Event Architecture: Custom events, parameters, and data layer design
-- Server-Side Processing: Event validation, transformation and routing
-- CRM Integration: Lead and customer lifecycle data
-- Offline Conversions: Connecting qualified leads and customers back to ad platforms
-- Data Quality: Debugging, validation and conversion consistency
-  
-## Professional Focus
+## 🚀 Currently Exploring
 
-- Performance Marketing Tracking
-- Conversion Measurement
-- Server-Side Tracking
-- Offline Conversion Tracking
-- CRM & API Integrations
-- Marketing Attribution
-- Data Layer Architecture
-- Consent & Privacy-Aware Tracking
-  
-🤝 Connect With Me
-LinkedIn: https://www.linkedin.com/in/tracking-specialist/
+| **Area** | **Focus** |
+|---|---|
+| **Server-Side Measurement** | Advanced sGTM architecture and event processing |
+| **Advertising APIs** | Google Ads, Meta and other conversion APIs |
+| **CRM Data Pipelines** | Connecting customer lifecycle data with advertising platforms |
+| **Privacy-Aware Measurement** | Consent-based and privacy-conscious tracking |
+| **Tracking Infrastructure** | Reliable and scalable measurement systems |
+| **GTM Development** | Custom templates and advanced tagging solutions |
+
+## 🤝 Connect With Me
+
+| **Platform** | **Link** |
+|---|---|
+| **LinkedIn** | [tracking-specialist](https://www.linkedin.com/in/tracking-specialist/) |
+| **Website** | [baharuddin.netlify.app](https://baharuddin.netlify.app/) |
