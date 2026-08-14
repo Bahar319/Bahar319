@@ -5,7 +5,6 @@
 ![GA4](https://img.shields.io/badge/GA4-Analytics-F9AB00?style=flat&logo=google-analytics&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-34A853?style=flat&logo=google-ads&logoColor=white)
 ![Meta CAPI](https://img.shields.io/badge/Meta%20CAPI-1877F2?style=flat&logo=meta&logoColor=white)
-![TikTok Events API](https://img.shields.io/badge/TikTok%20Events%20API-000000?style=flat&logo=tiktok&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-Automation-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6E40C9?style=flat)
 ![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2?style=flat)
@@ -32,7 +31,7 @@ I work across the full tracking lifecycle, from **browser-side event collection*
 | **Privacy** | Consent-aware tracking, GDPR/CCPA considerations |
 | **Automation** | Zapier, workflow automation |
 
-## 📊 Tracking Architecture
+## Tracking Architecture
 
 **Ad Platform → Website → GTM → GA4 / Conversion API → Server → CRM → Offline Conversion**
 
@@ -48,7 +47,7 @@ I work across the full tracking lifecycle, from **browser-side event collection*
 | **APIs & Webhooks** | Synchronize data between websites, CRMs and marketing platforms |
 | **Offline Conversions** | Connect qualified leads and customers back to advertising platforms |
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 | **Category** | **Technologies** |
 |---|---|
@@ -61,7 +60,7 @@ I work across the full tracking lifecycle, from **browser-side event collection*
 | **CRM** | CRM integrations, lifecycle tracking |
 | **Platforms** | Shopify, WordPress, Webflow |
 
-## 🔬 What I Build
+## What I Build
 
 | **System** | **Implementation** |
 |---|---|
@@ -75,7 +74,7 @@ I work across the full tracking lifecycle, from **browser-side event collection*
 | **Attribution** | Marketing parameter and click ID capture |
 | **Consent Management** | Consent-aware tagging and measurement |
 
-## 🚀 Currently Exploring
+## Currently Exploring
 
 | **Area** | **Focus** |
 |---|---|
