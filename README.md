@@ -9,13 +9,13 @@
 ![REST API](https://img.shields.io/badge/REST%20API-6E40C9?style=flat)
 ![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2?style=flat)
 
-## 👋 About Me
+## About Me
 
 I'm a **Tracking & Analytics Specialist** focused on building reliable measurement systems for **performance marketing agencies and their clients**.
 
 I work across the full tracking lifecycle, from **browser-side event collection** to **server-side processing, CRM integration, and offline conversion measurement**.
 
-## ⚙️ Core Competencies
+## Core Competencies
 
 | **Area** | **Components** |
 |---|---|
