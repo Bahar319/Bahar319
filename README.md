@@ -27,7 +27,7 @@ I work across the full tracking lifecycle, from **browser-side event collection*
 | **CRM Integration** | CRM lifecycle tracking, lead qualification, customer data |
 | **API Integration** | REST APIs, Webhooks, data synchronization |
 | **Development** | JavaScript, JSON, HTML, CSS |
-| **GTM Development** | Custom templates, custom variables, custom tags |
+| **GTM Template Development** | Custom templates, custom variables, custom tags |
 | **Privacy** | Consent-aware tracking, GDPR/CCPA considerations |
 | **Automation** | Zapier, workflow automation |
 
@@ -83,11 +83,12 @@ I work across the full tracking lifecycle, from **browser-side event collection*
 | **CRM Data Pipelines** | Connecting customer lifecycle data with advertising platforms |
 | **Privacy-Aware Measurement** | Consent-based and privacy-conscious tracking |
 | **Tracking Infrastructure** | Reliable and scalable measurement systems |
-| **GTM Development** | Custom templates and advanced tagging solutions |
+| **GTM Template Development** | Custom templates and advanced tagging solutions |
 
 ## 🤝 Connect With Me
 
 | **Platform** | **Link** |
 |---|---|
 | **LinkedIn** | [tracking-specialist](https://www.linkedin.com/in/tracking-specialist/) |
+| **Book a call** | [Calendly](https://calendly.com/tracking-solution/tracking-with-bahar) |
 | **Website** | [baharuddin.netlify.app](https://baharuddin.netlify.app/) |
