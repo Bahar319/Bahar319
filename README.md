@@ -36,9 +36,13 @@ Automation with Zapier
 Cross-domain and attribution tracking
 🔧 Tools & Technologies
 
-Analytics & Tracking
+**Analytics & Tracking**
 
-GA4 GTM Google Ads Meta CAPI TikTok Events API
+![GA4](https://img.shields.io/badge/GA4-Analytics-F9AB00?style=flat&logo=google-analytics&logoColor=white)
+![GTM](https://img.shields.io/badge/GTM-Tag%20Manager-4285F4?style=flat&logo=google-tag-manager&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
+![Meta CAPI](https://img.shields.io/badge/Meta%20CAPI-1877F2?style=flat&logo=meta&logoColor=white)
+![TikTok Events API](https://img.shields.io/badge/TikTok%20Events%20API-000000?style=flat&logo=tiktok&logoColor=white)
 
 Development
 
