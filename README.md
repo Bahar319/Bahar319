@@ -3,7 +3,7 @@
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20" height="20" alt="JavaScript">
 <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="20" height="20" alt="GA4">
 <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" width="20" height="20" alt="Google Ads">
-<img src="https://cdn.simpleicons.org/meta/0866FF" width="20" height="20" alt="Meta">
+<img src="https://cdn.simpleicons.org/meta/0866FF" width="20" height="20" alt="Meta CAPI">
 <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="20" height="20" alt="Zapier">
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="20" height="20" alt="REST API">
 
