@@ -1,7 +1,9 @@
 # 😎 Hey! Nice to see you.
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/GTM-Tag%20Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white" alt="GTM">
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="20" height="20" viewBox="0 0 48 48">
+<path fill="#4fc3f7" d="M44.945,21.453L26.547,3.055c-1.404-1.404-3.689-1.404-5.094,0L3.055,21.453	c-1.404,1.404-1.404,3.689,0,5.094l18.398,18.398c0.702,0.702,1.625,1.053,2.547,1.053s1.845-0.351,2.547-1.053l18.398-18.398	C46.349,25.143,46.349,22.857,44.945,21.453z M24,29l-5-5l5-5l5,5L24,29z"></path><path fill="#2979ff" d="M33.246,9.754L24,19l5,5l-5,5l9.246,9.246l11.699-11.699c1.404-1.404,1.404-3.689,0-5.094	L33.246,9.754z"></path><path fill="#2962ff" d="M14.754,38.246l6.699,6.699c0.702,0.702,1.625,1.053,2.547,1.053s1.845-0.351,2.547-1.053	l6.699-6.699L24,29L14.754,38.246z"></path>
+</svg>
 <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" height="20" alt="GA4">
 <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" height="20" alt="Google Ads">
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0692168e-a248-450d-a9bf-0d03cc579065"  height="20" alt="Meta CAPI">
