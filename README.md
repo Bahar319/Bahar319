@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/GTM-Tag%20Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white" alt="GTM">
-<img src="https://img.shields.io/badge/GA4-Analytics-E37400?style=flat&logo=google-analytics&logoColor=white" alt="GA4">
+<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" height="20" alt="GA4">
 <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white" alt="Google Ads">
 <img src="https://img.shields.io/badge/Meta%20CAPI-0866FF?style=flat&logo=meta&logoColor=white" alt="Meta CAPI">
 <img src="https://img.shields.io/badge/Zapier-Automation-FF4A00?style=flat&logo=zapier&logoColor=white" alt="Zapier">
