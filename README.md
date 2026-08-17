@@ -1,11 +1,13 @@
 # 😎 Hey! Nice to see you.
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20" height="20" alt="JavaScript">
-<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="20" height="20" alt="GA4">
-<img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" width="20" height="20" alt="Google Ads">
-<img src="https://cdn.simpleicons.org/meta/0866FF" width="20" height="20" alt="Meta CAPI">
-<img src="https://cdn.simpleicons.org/zapier/FF4A00" width="20" height="20" alt="Zapier">
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="20" height="20" alt="REST API">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GTM](https://img.shields.io/badge/GTM-Tag%20Manager-4285F4?style=flat&logo=google-tag-manager&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-Analytics-F9AB00?style=flat&logo=google-analytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
+![Meta CAPI](https://img.shields.io/badge/Meta%20CAPI-1877F2?style=flat&logo=meta&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-Automation-FF4A00?style=flat&logo=zapier&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-6E40C9?style=flat)
+![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2?style=flat)
 
 ## About Me
 
