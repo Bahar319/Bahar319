@@ -1,43 +1,30 @@
 # 😎 Hey! Nice to see you.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"><br>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 48 48">
-  <path fill="#4fc3f7" d="M44.945,21.453L26.547,3.055c-1.404-1.404-3.689-1.404-5.094,0L3.055,21.453c-1.404,1.404-1.404,3.689,0,5.094l18.398,18.398c0.702,0.702,1.625,1.053,2.547,1.053s1.845-0.351,2.547-1.053l18.398-18.398C46.349,25.143,46.349,22.857,44.945,21.453z M24,29l-5-5l5-5l5,5L24,29z"></path>
-  <path fill="#2979ff" d="M33.246,9.754L24,19l5,5l-5,5l9.246,9.246l11.699-11.699c1.404-1.404,1.404-3.689,0-5.094L33.246,9.754z"></path>
-  <path fill="#2962ff" d="M14.754,38.246l6.699,6.699c0.702,0.702,1.625,1.053,2.547,1.053s1.845-0.351,2.547-1.053l6.699-6.699L24,29L14.754,38.246z"></path>
-</svg>
+  <path fill="#4fc3f7" d="M44.945,21.453L26.547,3.055c-1.404-1.404-3.689-1.404-5.094,0L3.055,21.453c-1.404,1.404-1.404,3.689,0,5.094l18.398,18.398c.702,0.702,1.625,1.053,2.547,1.053s1.845-.351,2.547-1.053l18.398-18.398C46.349,25.143,46.349,22.857,44.945,21.453z M24,29l-5-5l5-5l5,5L24,29z"/>
+  <path fill="#2979ff" d="M33.246,9.754L24,19l5,5l-5,5l9.246,9.246l11.699-11.699c1.404-1.404,1.404-3.689,0-5.094L33.246,9.754z"/>
+  <path fill="#2962ff" d="M14.754,38.246l6.699,6.699c.702.702,1.625,1.053,2.547,1.053s1.845-.351,2.547-1.053l6.699-6.699L24,29L14.754,38.246z"/>
+</svg><br>
 
-<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"
-     width="20"
-     height="20"
-     alt="GA4">
+<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="20" height="20" alt="GA4"><br>
 
-<img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg"
-     width="20"
-     height="20"
-     alt="Google Ads">
+<img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" width="20" height="20" alt="Google Ads"><br>
 
-<img src="https://github.com/user-attachments/assets/0692168e-a248-450d-a9bf-0d03cc579065"
-     width="20"
-     height="20"
-     alt="Meta CAPI">
+<img src="https://github.com/user-attachments/assets/0692168e-a248-450d-a9bf-0d03cc579065" width="20" height="20" alt="Meta CAPI"><br>
 
-<img src="https://github.com/user-attachments/assets/d0f06e1f-99fc-4174-a1c1-7d4d2fa07c79"
-     width="20"
-     height="20"
-     alt="Zapier">
+<img src="https://github.com/user-attachments/assets/d0f06e1f-99fc-4174-a1c1-7d4d2fa07c79" width="20" height="20" alt="Zapier"><br>
 
-<img src="https://img.shields.io/badge/REST%20API-6E40C9?style=flat"
-     alt="REST API">
+<img src="https://img.shields.io/badge/REST%20API-6E40C9?style=flat" alt="REST API"><br>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 48 48">
-  <path fill="#37474f" d="M35,37c-2.2,0-4-1.8-4-4s1.8-4,4-4s4,1.8,4,4S37.2,37,35,37z"></path>
-  <path fill="#37474f" d="M35,43c-3,0-5.9-1.4-7.8-3.7l3.1-2.5c1.1,1.4,2.9,2.3,4.7,2.3c3.3,0,6-2.7,6-6s-2.7-6-6-6c-1,0-2,0.3-2.9,0.7l-1.7,1L23.3,16l3.5-1.9l5.3,9.4c1-0.3,2-0.5,3-0.5c5.5,0,10,4.5,10,10S40.5,43,35,43z"></path>
-  <path fill="#37474f" d="M14,43C8.5,43,4,38.5,4,33c0-4.6,3.1-8.5,7.5-9.7l1,3.9C9.9,27.9,8,30.3,8,33c0,3.3,2.7,6,6,6s6-2.7,6-6v-2h15v4H23.8C22.9,39.6,18.8,43,14,43z"></path>
-  <path fill="#e91e63" d="M14,37c-2.2,0-4-1.8-4-4s1.8-4,4-4s4,1.8,4,4S16.2,37,14,37z"></path>
-  <path fill="#37474f" d="M25,19c-2.2,0-4-1.8-4-4s1.8-4,4-4s4,1.8,4,4S27.2,19,25,19z"></path>
-  <path fill="#e91e63" d="M15.7,34L12.3,32l5.9-9.7c-2-1.9-3.2-4.5-3.2-7.3c0-5.5,4.5-10,10-10c5.5,0,10,4.5,10,10c0,0.9-0.1,1.7-0.3,2.5l-3.9-1c0.1-0.5,0.2-1,0.2-1.5c0-3.3-2.7-6-6-6s-6,2.7-6,6c0,2.1,1.1,4,2.9,5.1l1.7,1L15.7,34z"></path>
+  <path fill="#37474f" d="M35,37c-2.2,0-4-1.8-4-4s1.8-4,4-4s4,1.8,4,4S37.2,37,35,37z"/>
+  <path fill="#37474f" d="M35,43c-3,0-5.9-1.4-7.8-3.7l3.1-2.5c1.1,1.4,2.9,2.3,4.7,2.3c3.3,0,6-2.7,6-6s-2.7-6-6-6c-1,0-2,.3-2.9,.7l-1.7,1L23.3,16l3.5-1.9l5.3,9.4c1-.3,2-.5,3-.5c5.5,0,10,4.5,10,10S40.5,43,35,43z"/>
+  <path fill="#37474f" d="M14,43C8.5,43,4,38.5,4,33c0-4.6,3.1-8.5,7.5-9.7l1,3.9C9.9,27.9,8,30.3,8,33c0,3.3,2.7,6,6,6s6-2.7,6-6v-2h15v4H23.8C22.9,39.6,18.8,43,14,43z"/>
+  <path fill="#e91e63" d="M14,37c-2.2,0-4-1.8-4-4s1.8-4,4-4s4,1.8,4,4S16.2,37,14,37z"/>
+  <path fill="#37474f" d="M25,19c-2.2,0-4-1.8-4-4s1.8-4,4-4s4,1.8,4,4S27.2,19,25,19z"/>
+  <path fill="#e91e63" d="M15.7,34L12.3,32l5.9-9.7c-2-1.9-3.2-4.5-3.2-7.3c0-5.5,4.5-10,10-10c5.5,0,10,4.5,10,10c0,.9-.1,1.7-.3,2.5l-3.9-1c.1-.5.2-1,.2-1.5c0-3.3-2.7-6-6-6s-6,2.7-6,6c0,2.1,1.1,4,2.9,5.1l1.7,1L15.7,34z"/>
 </svg>
 
 ## About Me
