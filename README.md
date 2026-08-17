@@ -1,10 +1,10 @@
 # 😎 Hey! Nice to see you.
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20" height="20" alt="JavaScript">&nbsp;
-<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="20" height="20" alt="GA4">&nbsp;
-<img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" width="20" height="20" alt="Google Ads">&nbsp;
-<img src="https://github.com/user-attachments/assets/0692168e-a248-450d-a9bf-0d03cc579065" width="20" height="20" alt="Meta CAPI">&nbsp;
-<img src="https://github.com/user-attachments/assets/d0f06e1f-99fc-4174-a1c1-7d4d2fa07c79" width="20" height="20" alt="Zapier">&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20" height="20" alt="JavaScript">
+<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="20" height="20" alt="GA4">
+<img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" width="20" height="20" alt="Google Ads">
+<img src="https://cdn.simpleicons.org/meta/0866FF" width="20" height="20" alt="Meta">
+<img src="https://cdn.simpleicons.org/zapier/FF4A00" width="20" height="20" alt="Zapier">
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="20" height="20" alt="REST API">
 
 ## About Me
