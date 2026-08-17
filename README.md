@@ -1,10 +1,10 @@
 # 😎 Hey! Nice to see you.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GTM](https://img.shields.io/badge/GTM-Tag%20Manager-4285F4?style=flat&logo=google-tag-manager&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4-Analytics-F9AB00?style=flat&logo=google-analytics&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-34A853?style=flat&logo=google-ads&logoColor=white)
-![Meta CAPI](https://img.shields.io/badge/Meta%20CAPI-1877F2?style=flat&logo=meta&logoColor=white)
+![GTM](https://img.shields.io/badge/GTM-Tag%20Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
+![Meta CAPI](https://img.shields.io/badge/Meta%20CAPI-0866FF?style=flat&logo=meta&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-Automation-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6E40C9?style=flat)
 ![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2?style=flat)
